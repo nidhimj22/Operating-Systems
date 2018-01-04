@@ -1,3 +1,3 @@
-This repository contains the assignements I had submitted for credits at University of Florida in Fall 2016.
+This repository contains the assignements I had submitted at the University of Florida in Fall 2016 for credit.
 
 Course Website - https://www.cise.ufl.edu/~helal/classes/f16/index.html
